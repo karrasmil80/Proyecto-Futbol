@@ -13,7 +13,7 @@ import toModel
 class EntrenadorMapperTest {
 
         @Test
-        @DisplayName("Test Producto to Dto")
+        @DisplayName("Test Personal to Dto")
         fun EntrenadorToDto() {
             // Arrange: Creamos un objeto Entrenador con datos específicos.
             val entrenador = Entrenador(
